@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @Mahmoud12501
 - 👀 I’m interested in back end and security
 - 🌱 I’m currently learning  CS in FCI BSU
-- 💞️ I’m looking to collaborate on ...
+- 👯 I’m looking to collaborate with other content creators
+- 🥅 2022 Goals: Reaching an advanced level in python and django
 - 📫 How to reach me mahmoudmuhmmed2001@gmail.com
 
 <!---
